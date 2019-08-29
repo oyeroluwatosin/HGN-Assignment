@@ -1,0 +1,3 @@
+# HGN-Assignment
+Creating a replica of my Resume using HTML Only
+This is an upgrade to the first assignment but this time around with CSS...
