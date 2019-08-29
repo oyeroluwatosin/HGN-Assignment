@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: fixed;
+    width: 30%;
+    background-color: #7e6d57;
+    height: 100%;
+    z-index: 1;
+    /* Stay on top */
+    top: 0;
+    /* Stay on top */
+    left: 0;
+    overflow-x: hidden;
+    /* Disable horizontal scroll */
+}
+
+header #images img {
+    border-radius: 70%;
+    text-align: center;
+    width: 27%;
+    height: 30%;
+}
+
+#images {
+    text-align: center;
+    background: #655643;
+    color: white;
+}
+
+#remain {
+    color: white;
+    padding: 10px 2px 0px 10px;
+}
+
+#info {
+    margin-bottom: 10px;
+}
+
+#info ul {
+    padding-bottom: 5px;
+    list-style: none;
+}
+
+#info ul li {
+    padding-bottom: 5px;
+    font-size: 14px;
+}
+
+.icon-background {
+    color: #655643;
+}
+
+hr {
+    border: 2px solid;
+    width: 5%;
+    margin-bottom: 5px;
+}
+
+#career {
+    margin-bottom: 5px;
+}
+
+
+/* .midddle {
+    margin-bottom: 50px;
+} */
+
+#career p {
+    padding-bottom: 5px;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+#skills ul {
+    margin-left: 13px;
+}
+
+#skills ul li {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+main {
+    margin-left: 30%;
+    padding: 20px;
+}
+
+#educational {
+    margin-bottom: 20px;
+}
+
+#educational ul {
+    margin-left: 60px;
+}
+
+#educational ul li {
+    line-height: 30px;
+}
+
+#work {
+    margin-bottom: 20px;
+}
+
+#work ul {
+    margin-left: 60px;
+}
+
+#work ul li {
+    line-height: 25px;
+}
+
+.content {
+    margin-left: 50px;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
